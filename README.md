@@ -23,7 +23,6 @@ The application translates natural language into syntactically correct MySQL que
 
 The flow of data through the system is as follows:
 
-[Image of a system architecture diagram showing User Browser, Flask Backend, Ollama LLM, and MySQL Database interaction]
 
 **User (Browser)** ↓  
 **Frontend (HTML / JavaScript)** ↓  
