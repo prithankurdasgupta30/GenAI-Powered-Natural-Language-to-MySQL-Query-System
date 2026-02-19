@@ -52,8 +52,8 @@ This project was developed using:
 
 * **Backend:** Python, Flask
 * **Database:** MySQL, `mysql-connector-python`
-* **AI Engine:** Ollama (Mistral / Phi-3)
-* **Frontend:** HTML5, CSS3, JavaScript
+* **AI Engine:** Ollama (Mistral)
+* **Frontend:** HTML5, CSS
 * **Infrastructure:** Ubuntu, VirtualBox
 
 ---
